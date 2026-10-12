@@ -1,4 +1,4 @@
-# Jenkins Node.js App
+# Node.js App
 
 ## 1. Introduction
 
